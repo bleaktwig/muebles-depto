@@ -53,3 +53,15 @@
 ## Mueble TV (CRT) - **$5.000**
 ![foto](img/mueble_crt.jpeg)
 * Muchas años de uso, pero el mueble está en buen estado.
+
+## Mueble TV - **...**
+TODO. Fotos.
+* TODO. Anotar medidas.
+
+## Librero/velador - **$15.000**
+TODO. Foto.
+* TODO. Anotar medidas.
+
+## Micrófono - **$30.000**
+TODO. Foto.
+* TODO. Características.
