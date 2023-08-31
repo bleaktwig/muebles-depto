@@ -1,10 +1,4 @@
 # VENTA DE MUEBLES DEPARTAMENTO
-## Pantalla Curva PC 24" - **$80.000**
-![foto](img/pantalla.jpeg)
-* **Precio de compra.** $150.000.
-* 4 años de uso.
-
----
 ## Tatami matrimonial - **$60.000**
 ![foto](img/tatami.jpeg)
 * 2 años de uso.
@@ -14,19 +8,16 @@
 ## Mueble TV - **$60.000**
 ![foto](img/mueble_tv.jpeg)
 * Tamaño: 180 x 150 x 40 cm.
+* Espacio para TV: ***TODO***.
 * 4 años de uso.
 
 ---
-## Sillas de Playa - **$5.000 (todas)**
-![foto](img/silla_playa_1.jpeg)
-![foto](img/silla_playa_2.jpeg)
-* Muchos años de uso.
-
----
-## Cuadros - **$2.000 por unidad**
+## Marcos - **$2.000 por unidad**
 ![foto](img/cuadros.jpeg)
 * Tamaño: 33 x 28 x 2 cm.
-* Sólo se venden los cuadros, cada ilustración se vende a $3.000.
+* Sólo se venden los cuadros. Cada ilustración de Kursgezagt se vende por $3.000.
+* Todo el juego de marcos (10) se vende por **$16.000**.
+* Todo el juego con las ilustraciones se vende por **$40.000**.
 
 ---
 ## Alfombra - **$20.000**
