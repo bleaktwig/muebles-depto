@@ -23,3 +23,29 @@
 ## Alfombra - **$20.000**
 ![foto](img/alfombra.jpeg)
 * Tamaño: 210 x 153 cm.
+
+---
+## Utilería de Cocina - **$60.000**
+TODO.
+
+---
+## Microondas - **$60.000**
+TODO.
+* Precio de compra: $80.000.
+* Tamaño: TODO.
+
+---
+## Lámpara de Vidrio - TODO
+TODO.
+
+---
+## Lámpara de Metal - TODO
+TODO.
+
+---
+## Herramientas de Carpintería
+TODO.
+
+---
+## Herramientas de Casa
+TODO.
