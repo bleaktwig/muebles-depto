@@ -31,21 +31,16 @@ TODO.
 TODO.
 
 ---
-## Aspiradora - TODO
+## Lámpara de Metal - TODO
 TODO.
 
 ---
-## Otros
-Pala y escoba, etc...
-
----
-## Lámpara de Metal - TODO
+## Aspiradora - TODO
 TODO.
 
 ---
 ## Herramientas
 ![foto](img/herramientas_1.jpeg)
-![foto](img/herramientas_2.jpeg)
 ![foto](img/herramientas_3.jpeg)
 ![foto](img/herramientas_4.jpeg)
 ![foto](img/herramientas_5.jpeg)
