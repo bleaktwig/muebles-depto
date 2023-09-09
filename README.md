@@ -12,14 +12,6 @@
 * 4 años de uso.
 
 ---
-## Marcos - **$2.000 por unidad**
-![foto](img/cuadros.jpeg)
-* Tamaño: 33 x 28 x 2 cm.
-* Sólo se venden los cuadros. Cada ilustración de Kursgezagt se vende por $3.000.
-* Todo el juego de marcos (10) se vende por **$16.000**.
-* Todo el juego con las ilustraciones se vende por **$40.000**.
-
----
 ## Alfombra - **$20.000**
 ![foto](img/alfombra.jpeg)
 * Tamaño: 210 x 153 cm.
@@ -39,13 +31,23 @@ TODO.
 TODO.
 
 ---
+## Aspiradora - TODO
+TODO.
+
+---
+## Otros
+Pala y escoba, etc...
+
+---
 ## Lámpara de Metal - TODO
 TODO.
 
 ---
-## Herramientas de Carpintería
-TODO.
-
----
-## Herramientas de Casa
-TODO.
+## Herramientas
+![foto](img/herramientas_1.jpeg)
+![foto](img/herramientas_2.jpeg)
+![foto](img/herramientas_3.jpeg)
+![foto](img/herramientas_4.jpeg)
+![foto](img/herramientas_5.jpeg)
+![foto](img/herramientas_6.jpeg)
+![foto](img/herramientas_7.jpeg)
