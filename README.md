@@ -65,7 +65,6 @@
 ---
 ## Herramientas
 ![foto](img/herramientas_1.jpeg)
-![foto](img/herramientas_3.jpeg)
 ![foto](img/herramientas_4.jpeg)
 ![foto](img/herramientas_5.jpeg)
 ![foto](img/herramientas_6.jpeg)
