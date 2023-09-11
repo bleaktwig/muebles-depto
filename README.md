@@ -17,26 +17,50 @@
 * Tamaño: 210 x 153 cm.
 
 ---
-## Utilería de Cocina - **$60.000**
-TODO.
-
----
-## Microondas - **$60.000**
-TODO.
+## Microondas Samsung - **$40.000**
+![foto](img/microondas.jpeg)
 * Precio de compra: $80.000.
-* Tamaño: TODO.
+* Microondas sin ningún detalle.
+* Dimensiones: ***TODO***.
 
 ---
-## Lámpara de Vidrio - TODO
-TODO.
+## Utilería de Cocina
+**Set de cuchillos completo** - $10.000
+![foto](img/cuchillos.jpeg)
+* 4 cuchillos de cerámica con tapa de plástico y un cuchillo de metal.
+* Cuchillos de cerámica están levemente dañados, pero cortan bien aún.
+
+**Set de ollas** - $15.000
+![foto](img/ollas.jpeg)
+* Ollas negras con teflón en buen estado.
+* Precio por olla: $5.000.
+
+**Woks** - $15.000
+![foto](img/woks.jpeg)
+* Woks de metal en buen estado.
+* Diámetro de 22 cm.
+* Precio wok con tapa: $10.000.
+* Precio wok sin tapa: $5.000.
 
 ---
-## Lámpara de Metal - TODO
-TODO.
+## Lámparas
+**Ampolleta redonda con filamento en espiral** - $5.000
+
+**Pantalla de vidrio cilíndrica** - $15.000
+![foto](img/lampara_1.jpeg)
+
+**Ampolleta filamento pequeña** - $3.000
+![foto](img/lampara_2.jpeg)
+
+**TODO. Agregar lámpara de metal.**
 
 ---
-## Aspiradora - TODO
-TODO.
+## Utilería de limpieza
+**Escoba y pala** - ***TODO.***
+
+**Mopa 1** - ***TODO.***
+
+**Mopa 2** - ***TODO.***
 
 ---
 ## Herramientas
