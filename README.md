@@ -52,7 +52,8 @@
 **Ampolleta filamento pequeña** - $3.000
 ![foto](img/lampara_2.jpeg)
 
-**TODO. Agregar lámpara de metal.**
+**Pantalla negra en malla** - $5.000
+![foto](img/lampara_3.jpeg)
 
 ---
 ## Utilería de limpieza
